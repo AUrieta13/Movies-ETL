@@ -1,7 +1,7 @@
 # Movies-ETL
 
 # Overview Analysis
-- We assigned to refactor the code we previously created to create on function that takes wikipedia data, kaggle metadata, and movielens rating data and perform Extraction, Transformation, and Load process. The final data will be added to a PostgreSQL database.
+- We were assigned to refactor the code we previously created to create one function that takes wikipedia data, kaggle metadata, and movielens rating data and perform Extraction, Transformation, and Load process. The final data will be added to a PostgreSQL database.
 
 ## Deliverable 1 (Write an ETL Function to Read Three Data Files):
 1. In Step 1, create a function to read in the three files and give it a name.
